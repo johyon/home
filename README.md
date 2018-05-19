@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <p style="font-family: Helvetica; font-size: 12px; color:#404040;">
 <b>Jay-o Hyon</b>
 <br />
@@ -15,5 +12,3 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://www.cloudflare.com" style="color: #2f7bbf;">www.cloudflare.com</a>
 </p>
-</body>
-</html>
