@@ -7,10 +7,8 @@
 <br/>
 <a href="mailto:jay-o@cloudflare.com" style="color: #2f7bbf;">jay-o@cloudflare.com</a>
 
-<br/>cell:
-<a href="tel:18889935273" style="color: #2f7bbf;">18889935273</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-twitter <a href="www.twitter.com/yourname" style="color: #2f7bbf;">@yourname</a>
+<br/>Mobile:
+<a href="tel:+6598523245" style="color: #2f7bbf;">+65 9852 3245</a>
 </p>
 
 <a href="https://www.cloudflare.com/" target="_blank">
@@ -20,5 +18,6 @@ twitter <a href="www.twitter.com/yourname" style="color: #2f7bbf;">@yourname</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="https://www.cloudflare.com" style="color: #2f7bbf;">www.cloudflare.com</a>
 </p>
+
 </body>
 </html>
