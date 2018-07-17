@@ -3,9 +3,9 @@
 <body>
 
 <p style="font-family: Helvetica; font-size: 12px; color:#404040;">
-<b>Your Name</b>, Your title
+<b>Jay-o Hyon</b>, Customer Success Manager
 <br />
-<a href="mailto:youremail@cloudflare.com" style="color: #2f7bbf;">youremail@cloudflare.com</a>
+<a href="mailto:jay-o@cloudflare.com" style="color: #2f7bbf;">youremail@cloudflare.com</a>
 <br />cell:
 <a href="tel:18889935273" style="color: #2f7bbf;">18889935273</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
