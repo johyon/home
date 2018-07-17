@@ -1,5 +1,5 @@
 <html>
-<header><title>This is title</title></header>
+
 <body>
 
 <p style="font-family: Helvetica; font-size: 12px; color:#404040;">
