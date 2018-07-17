@@ -4,9 +4,10 @@
 
 <p style="font-family: Helvetica; font-size: 12px; color:#404040;">
 <b>Jay-o Hyon</b>, Customer Success Manager
-<br />
-<a href="mailto:jay-o@cloudflare.com" style="color: #2f7bbf;">youremail@cloudflare.com</a>
-<br />cell:
+<br/>
+<a href="mailto:jay-o@cloudflare.com" style="color: #2f7bbf;">jay-o@cloudflare.com</a>
+
+<br/>cell:
 <a href="tel:18889935273" style="color: #2f7bbf;">18889935273</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 twitter <a href="www.twitter.com/yourname" style="color: #2f7bbf;">@yourname</a>
